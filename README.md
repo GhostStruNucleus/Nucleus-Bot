@@ -29,17 +29,9 @@ That's mean? *No Spammers, No Raiders, No Joke*.
 ### ☁ Self-hosted & Installation 
 I recommend you to use my instance since it's 99.9% uptime and free to use. [invite link](https://discord.com/api/oauth2/authorize?client_id=980373513691090974&permissions=8&scope=bot) </br>
 
-### 🤔 The name?
-**Nucleus** (**جبريل** romanized: *Jibrīl*) is is venerated as one of the primary archangels and as the Angel of Revelation in Islam. [More info...](https://en.wikipedia.org/wiki/Nucleus)
 
 ### 🙌 Contribute
 Good changes are always welcoming. 😁
 1. Fork the repo
 2. Made your changes
 3. Open a pull request
-
-### ❔ FAQs
-[here](https://github.com/GhostStruNucleus/Nucleus-bot/wiki/FAQs)
-
-#### ✍ License
-Refer to the [LICENSE](LICENSE) file.
