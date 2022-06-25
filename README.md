@@ -28,6 +28,7 @@ That's mean? *No Spammers, No Raiders, No Joke*.
 
 ### ☁ Self-hosted & Installation 
 I recommend you to use my instance since it's 99.9% uptime and free to use. [invite link](https://discord.com/api/oauth2/authorize?client_id=980373513691090974&permissions=8&scope=bot) </br>
+Dashboard for the bot client. [Dashboard](https://snpdevelopment.000webhostapp.com/index.html) </br>
 
 
 ### 🙌 Contribute
